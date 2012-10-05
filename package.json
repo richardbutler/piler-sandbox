@@ -1,0 +1,16 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "~3.0.0rc5",
+    "jade": "~0.27.5",
+    "nib": "~0.8.2",
+    "stylus": "~0.29.0",
+    "socket.io": "~0.9.10",
+    "pound": "git+https://github.com/richardbutler/pound.git"
+  }
+}
